@@ -1,0 +1,6 @@
+com\example\demo\DemoApplication.class
+com\example\demo\customer\CustomerService.class
+com\example\demo\customer\CustomerRepository.class
+com\example\demo\customer\Customer.class
+com\example\demo\customer\CustomerController.class
+com\example\demo\config\SecureConfig.class
