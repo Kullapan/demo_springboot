@@ -2,5 +2,5 @@
 .classpath
 .factorypath
 .project
-.vscode\settings.json
-**\target\**
+.vscode/settings.json
+**/target/**
