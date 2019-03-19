@@ -3,4 +3,6 @@
 .factorypath
 .project
 .vscode/settings.json
-**/target
+*.original
+target/
+*.class
