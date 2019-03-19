@@ -1,5 +1,7 @@
 package com.example.demo.customer;
 
+import java.sql.Date;
+
 import javax.persistence.*;
 import javax.validation.constraints.*;
 import lombok.Data;
@@ -28,4 +30,6 @@ public class Customer {
 
     @Size(min = 1, max = 100, message = "Please provide lastName size between 1 - 100")
     private String address;
+
+    private Date birthday;
 }
